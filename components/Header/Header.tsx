@@ -16,7 +16,7 @@ export default function Header(props: HeaderProps) {
                 "Commands": "/commands",
                 "Support": "/support"
             }} current_page={ props.page } set_scroll={props.set_scroll} set_darken={props.set_darken}/>
-            <img className="w-8 h-8 self-center border-white border-2 rounded-md hidden sm:block" src="/twitch.png"/>
+            <img alt="twitch logo" className="w-8 h-8 self-center border-white border-2 rounded-md hidden sm:block" src="/twitch.png"/>
         </header>
     )
 }

@@ -17,7 +17,7 @@ function HeroLeft() {
 function HeroRight() {
     return (
         <div className="md:w-full lg:-mt-20 md:ml-16 lg:ml-32 w-3/4 sm:w-2/4 self-center sm:self-start max-w-2xl">
-            <img className="w-full border-4 border-pink" src="https://addons.mozilla.org/user-media/previews/full/249/249437.png?modified=1622136457"/>
+            <img alt="avaassistant screenshot" className="w-full border-4 border-pink" src="https://addons.mozilla.org/user-media/previews/full/249/249437.png?modified=1622136457"/>
         </div>
     )
 }

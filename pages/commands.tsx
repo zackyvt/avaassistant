@@ -25,7 +25,7 @@ const Home: NextPage<{data: CommandCategory[]}> = (props: {data: CommandCategory
         <Page page="Commands">
             <main className="mt-16 text-center sm:text-left">
                 <h1 className="font-bold text-3xl">Commands</h1>
-                <p className="mt-3 text-base">Below is a list of all of AvaAssistant's commands.</p>
+                <p className="mt-3 text-base">Below is a list of all of AvaAssistant&apos;s commands.</p>
                 <div className="flex mt-8 lg:mt-10 flex-col lg:flex-row">
                     <CommandsCategory current_category={current_category} commands_categories={data} set_current_category={set_current_category} />
                     <div className="lg:ml-20 mt-10 lg:mt-0">

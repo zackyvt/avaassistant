@@ -38,7 +38,7 @@ function NavSideBar(props: NavSideBarProps) {
     });
     return (
         <div className={(props.visible ? "shown" : "") + " z-20 navsidebar absolute h-full border-l border-white w-3/4 bg-blue top-0 -right-3/4 p-6"}>
-            <img onClick={() => props.close_sidebar()} className="mb-8 black-to-white w-6 cursor-pointer hover:opacity-75" src="/cross.png"/>
+            <img alt="logo" onClick={() => props.close_sidebar()} className="mb-8 black-to-white w-6 cursor-pointer hover:opacity-75" src="/cross.png"/>
             <Logo />
             <div className="flex flex-col mt-8 -ml-8 text-lg gap-3.5">
                 {props.children}
