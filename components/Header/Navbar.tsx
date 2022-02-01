@@ -33,7 +33,8 @@ interface NavSideBarProps {
 function NavSideBar(props: NavSideBarProps) {
     useEffect(() => {
         props.set_darken(props.visible);
-        document.body.style.overflowY = !props.visible ? "auto" : "hidden";
+        document.body.classList.remove(!props.visible ? "overflow-y-hidden" : "overflow-y-auto")
+        document.body.classList.add(props.visible ? "overflow-y-hidden" : "overflow-y-auto");
         props.set_scroll(!props.visible);
     });
     return (
