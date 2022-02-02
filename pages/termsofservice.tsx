@@ -16,12 +16,6 @@ export default function TermsOfService() {
                     Supplemental terms and conditions or documents that may be posted on the Site from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of these Terms of Use, and you waive any right to receive specific notice of each such change. Please ensure that you check the applicable Terms every time you use our Site so that you understand which Terms apply. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Site after the date such revised Terms of Use are posted.
                     <br></br>
                     <br></br>
-                    The information provided on the Site is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
-                    <br></br>
-                    <br></br>
-                    The Site is not tailored to comply with industry-specific regulations (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.), so if your interactions would be subjected to such laws, you may not use this Site. You may not use the Site in a way that would violate the Gramm-Leach-Bliley Act (GLBA).
-                    <br></br>
-                    <br></br>
                     The Site is intended for users who are at least 13 years of age. All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Site. If you are a minor, you must have your parent or guardian read and agree to these Terms of Use prior to you using the Site. 
                     <br></br>
                     <br></br>
@@ -69,7 +63,7 @@ export default function TermsOfService() {
                     <br></br>
                     <b className="text-lg">8. PRIVACY POLICY</b>
                     <br></br>
-                    We care about data privacy and security. Please review our Privacy Policy: <a href="https://avaassistant.xyz/privatepolicy">https://avaassistant.xyz/privatepolicy</a>. By using the Site, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Use. Please be advised the Site is hosted in the United States. If you access the Site from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Site, you are transferring your data to the United States, and you agree to have your data transferred to and processed in the United States. Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Site as quickly as is reasonably practical.
+                    We care about data privacy and security. Please review our Privacy Policy: <a href="https://avaassistant.xyz/privacypolicy">https://avaassistant.xyz/privacypolicy</a>. By using the Site, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Use. Please be advised the Site is hosted in the United States. If you access the Site from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Site, you are transferring your data to the United States, and you agree to have your data transferred to and processed in the United States. Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Site as quickly as is reasonably practical.
                     <br></br>
                     <br></br>
                     <b className="text-lg">9. TERM AND TERMINATION</b>
@@ -112,7 +106,7 @@ export default function TermsOfService() {
                     <br></br>
                     <b className="text-lg">16. CONTACT US</b>
                     <br></br>
-                    In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: support@avaassistant.xyz
+                    In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: teamava0001@gmail.com
                 </p>
             </main>
         </Page>

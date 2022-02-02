@@ -8,7 +8,7 @@ export default function PrivacyPolicy() {
                 <h1 className="font-bold text-3xl text-center sm:text-left">Privacy Policy</h1>
                 <p className="text-1xl text-center sm:text-left">Last Updated: February 1st, 2022</p>
                 <p className="mt-10 text-sm text-center sm:text-left">
-                    AvaAssistant (“we,” “us,” or “our”) operates the https://avaassistant.xyz/ website (the “Site”) and AvaAssistant Twitch bot (the “Bot”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us: support@avaassistant.xyz
+                    AvaAssistant (“we,” “us,” or “our”) operates the https://avaassistant.xyz/ website (the “Site”) and AvaAssistant Twitch bot (the “Bot”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us: teamava0001@gmail.com
                     <br></br>
                     <br></br>
                     In this privacy notice, if we refer to:
@@ -65,14 +65,14 @@ export default function PrivacyPolicy() {
                     We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security, and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Website is at your own risk. You should only access the Website within a secure environment.
                     <br></br>
                     <br></br>
-                    <b className="text-lg">4. CHANGES TO THIS POLICY</b>
+                    <b className="text-lg">6. CHANGES TO THIS POLICY</b>
                     <br></br>
                     We may update this privacy notice from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
                     <br></br>
                     <br></br>
-                    <b className="text-lg">5. CONTACTING US</b>
+                    <b className="text-lg">7. CONTACTING US</b>
                     <br></br>
-                    Please feel free to contact us if you have any questions about this Private Policy or the information practices of the Service. You may contact us at: support@avaassistant.xyz
+                    Please feel free to contact us if you have any questions about this Private Policy or the information practices of the Service. You may contact us at: teamava0001@gmail.com
                 </p>
             </main>
         </Page>

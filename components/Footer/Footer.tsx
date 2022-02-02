@@ -11,7 +11,7 @@ function FooterMain() {
     return (
         <div className="flex ml-20 flex-wrap">
             <FooterSection title="Contact" links={{
-                "Email": "mailto:support@avaassistant.xyz"
+                "Email": "mailto:teamava0001@gmail.com"
             }}/>
             <FooterSection title="Resources" links={{
                 "Support": "/support",
