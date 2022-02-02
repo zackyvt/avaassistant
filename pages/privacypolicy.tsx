@@ -42,12 +42,12 @@ export default function PrivacyPolicy() {
                     <br></br>
                     The information we collect includes:
                     <br></br>
-                    Log and Usage Data. Log and usage data is service-related, diagnostic, usage and performance information our servers automatically collect when you access or use our Website and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type and settings and information about your activity in the Website (such as the date/time stamps associated with your usage, pages and files viewed, searches and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called 'crash dumps') and hardware settings).
+                    Log and Usage Data. Log and usage data is service-related, diagnostic, usage and performance information our servers automatically collect when you access or use our Website and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type and settings and information about your activity in the Website (such as the date/time stamps associated with your usage, pages and files viewed, searches and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called “crash dumps”) and hardware settings).
                     <br></br>
                     <br></br>
                     <b className="text-lg">3. WHO WILL YOUR INFORMATION BE SHARED WITH?</b>
                     <br></br>
-                    We only share and disclose your information with the following categories of third parties. If we have processed your data based on your consent and you wish to revoke your consent, please contact us using the contact details provided in the section below titled "CONTACTING US".
+                    We only share and disclose your information with the following categories of third parties. If we have processed your data based on your consent and you wish to revoke your consent, please contact us using the contact details provided in the section below titled “CONTACTING US”.
                     <br></br>
                     1. Data Analytics Services
                     <br></br>
@@ -67,7 +67,7 @@ export default function PrivacyPolicy() {
                     <br></br>
                     <b className="text-lg">4. CHANGES TO THIS POLICY</b>
                     <br></br>
-                    We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
+                    We may update this privacy notice from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
                     <br></br>
                     <br></br>
                     <b className="text-lg">5. CONTACTING US</b>

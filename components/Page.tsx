@@ -20,7 +20,7 @@ export default function Page(props: PageProps) {
                 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
                 <meta charSet="UTF-8" />
                 <meta name="title" content="AvaAssistant - a bot with personality" />
-                <meta name="description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." />
+                <meta name="description" content="A chat bot for Twitch that allows you moderate and interact with your viewers through commands and new features." />
                 <meta name="keywords" content="commands, bot, twitch, avaassistant" />
                 <meta name="robots" content="index, follow" />
                 <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />

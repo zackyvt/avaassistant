@@ -3,7 +3,7 @@ function HeroLeft() {
         <div className="w-full md:w-3/4 mt-16 md:mt-0 text-center self-center sm:text-left sm:self-start">
             <h1 className="font-bold text-4xl sm:text-6xl">AvaAssistant</h1>
             <p className="mt-8 leading-7 text-sm sm:text-base">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Hey! My name is Ava, your personal assistant. I use my many talents to play as a “Twitch Bot”, where I provide you with some advanced features and commands for your Stream! My features include alert notifications, translations support, stream configuration, viewer engagement commands, and more. I will do my best to assist you! 
             </p>
             <button className="font-bold p-3.5 pl-5 pr-5 bg-pink
         mt-10 rounded-lg text-sm hover:scale-105">INVITE THE BOT</button><br className="sm:hidden"/>
