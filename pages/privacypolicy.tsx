@@ -6,26 +6,42 @@ export default function PrivacyPolicy() {
         <Page page="Privacy Policy">
             <main className="mt-16">
                 <h1 className="font-bold text-3xl text-center sm:text-left">Privacy Policy</h1>
+                <p className="text-1xl text-center sm:text-left">Last Updated: Pending</p>
                 <p className="mt-10 text-sm text-center sm:text-left">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et hendrerit eros. Donec suscipit semper leo, eu congue neque ornare quis. Morbi finibus lacus metus, at pretium tortor interdum sit amet. In a ante auctor, vehicula elit nec, tempus justo. Curabitur sed commodo dui, at rhoncus mi. In euismod, ligula in finibus malesuada, enim dolor volutpat eros, malesuada semper lacus mauris quis est. Maecenas consequat facilisis ante et blandit.
-                    <br/><br/>
-                    Phasellus nec rutrum arcu, in commodo nisl. Mauris mollis, magna et aliquam venenatis, nulla massa viverra leo, nec rutrum tellus sem eget ex. Nam eu facilisis quam. Nulla egestas urna augue, eu elementum libero feugiat vel. Nunc mi enim, iaculis at egestas non, faucibus rhoncus ipsum. Nunc placerat mauris ut mi facilisis pulvinar. Morbi eget libero sit amet turpis fermentum pellentesque. Quisque fringilla sapien ut lacus rutrum, sed fringilla turpis ullamcorper. Praesent eu justo porttitor, tincidunt nulla finibus, sodales felis. Fusce quam quam, varius vitae condimentum id, hendrerit in orci. Etiam ornare magna sit amet mi tempor gravida. Nullam et imperdiet magna, id dignissim justo. Morbi lectus purus, porttitor eu molestie a, sagittis a nibh.
-                    <br/><br/>
-                    Nam ex tortor, pulvinar eu lacinia eget, cursus eget quam. Mauris consequat aliquam magna, eget sollicitudin dui. Donec maximus at odio vitae condimentum. Donec massa massa, sagittis nec dolor ac, lacinia feugiat tortor. Integer porta id velit ac condimentum. Cras non venenatis mi. Cras eu dolor bibendum, tristique lectus quis, gravida orci. Donec ullamcorper nunc eros, non eleifend nisi pretium ut. Sed pretium egestas justo, sed condimentum ipsum ultrices at. Cras elementum velit vel suscipit sollicitudin. Donec lobortis tortor sed ante luctus euismod.
-                    <br/><br/>
-                    Quisque at lacus vel massa finibus vehicula. In dignissim nec leo eget sollicitudin. Morbi elementum neque eget est vehicula, sit amet vulputate mauris sodales. Morbi euismod mi ut ante sagittis eleifend. Sed facilisis vitae nunc nec dapibus. Pellentesque sit amet lorem velit. Integer vestibulum aliquet elementum. Etiam sed auctor augue, varius accumsan est. Praesent sit amet eleifend nunc.
-                    <br/><br/>
-                    Donec egestas fringilla consequat. Integer eu purus ac ligula pharetra rhoncus non non nulla. Mauris fermentum arcu id gravida accumsan. Phasellus justo velit, rhoncus eu lectus ut, malesuada sagittis risus. Curabitur fermentum odio a purus sollicitudin pulvinar. Vestibulum aliquet odio sit amet orci pellentesque, nec ultrices nisi fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec euismod malesuada justo iaculis pellentesque. Integer vehicula massa vitae risus fringilla maximus. Nunc convallis fermentum eros, quis ornare tortor. Sed vel tellus at neque placerat pharetra quis a augue.
-                    <br/><br/>
-                    Cras vel risus vel ex consectetur auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean laoreet vulputate purus nec imperdiet. Aenean ante urna, tristique eu leo in, imperdiet aliquet lacus. Vestibulum dapibus urna at sem porttitor pulvinar. Sed mi felis, consectetur id elit sed, malesuada dapibus arcu. Vestibulum eu cursus eros. Sed non feugiat ligula. Vivamus gravida, ex sed vulputate porta, sem erat convallis velit, vel porta dolor quam at enim. Maecenas non sapien vitae lectus accumsan congue ut eu nunc. Proin a scelerisque mauris. Aenean quis lobortis arcu, et commodo erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In bibendum vel purus a rhoncus. Donec vel pellentesque augue.
-                    <br/><br/>
-                    Vestibulum at ultricies velit. Cras id lorem lacus. In lacus dui, eleifend id diam ut, sagittis porttitor mauris. Aliquam quam lorem, maximus sit amet euismod sit amet, sodales ac erat. Aliquam erat volutpat. Vivamus maximus sem in rutrum gravida. Morbi tincidunt, libero sodales convallis consequat, arcu purus blandit eros, in facilisis lorem leo eu arcu. Mauris semper velit orci, vitae blandit nisi laoreet ac. Morbi vehicula vitae magna ut accumsan. Quisque ultricies ligula efficitur leo condimentum cursus. Ut tempus eros at lacus eleifend dictum. Aliquam imperdiet lacus quis purus volutpat, a consequat dui maximus. Nam a pellentesque dui.
-                    <br/><br/>
-                    In eget nisi scelerisque, sollicitudin massa in, suscipit purus. Curabitur a consequat ipsum, ac auctor magna. Ut vitae mi nec nisi sollicitudin laoreet sit amet quis quam. Fusce et lectus ex. Nullam tempor elementum nibh, sed aliquam lacus ullamcorper nec. Integer facilisis rhoncus metus. Maecenas vel facilisis tortor. Duis ac dapibus nunc. Phasellus cursus purus non velit varius imperdiet. Integer vestibulum dapibus nibh a feugiat. Suspendisse tincidunt, elit eget faucibus vehicula, velit ex mollis dui, sed ultricies libero lacus eget ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra, metus rutrum porttitor viverra, est enim pulvinar lectus, non mattis leo tortor lobortis est. Aenean eleifend odio eget metus vestibulum viverra.
-                    <br/><br/>
-                    Nunc pharetra velit quis purus mollis sagittis. Pellentesque a risus magna. Proin faucibus auctor luctus. Vestibulum malesuada sit amet diam ut convallis. Donec rutrum massa sit amet leo finibus, ut posuere turpis suscipit. Nullam ultricies lacinia laoreet. Sed varius nisi sit amet mi vulputate ultricies. Phasellus suscipit pharetra mi, eu varius mi tempus sit amet. In id bibendum mauris. Nullam pharetra condimentum maximus. Mauris euismod vulputate metus, id tempus nisi tincidunt ac. Duis vestibulum elit vel urna feugiat tempus. Nulla facilisi. Aenean vitae condimentum mauris. Sed fermentum, lorem nec faucibus mattis, diam nulla varius ipsum, vel viverra sapien eros ut diam.
-                    <br/><br/>
-                    Proin congue lacus porta urna mattis sollicitudin. Ut efficitur vehicula purus ut malesuada. Nunc viverra mattis ornare. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc ac velit luctus lorem blandit consequat. Pellentesque blandit quam sed diam consequat feugiat. In consequat vulputate dolor nec iaculis.
+                    AvaAssistant (“we,” “us,” or “our”) operates the https://avaassistant.xyz/ website (the “Site”) and AvaAssistant Twitch bot (the “Service” or “Bot”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us: support@avaassistant.xyz
+                    <br></br>
+                    <br></br>
+                    <b className="text-lg">1. INFORMATION COLLECTED</b>
+                    <br></br>
+                    We automatically collect certain information when you visit, use or navigate the Site. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our and other technical information. This information is primarily needed to maintain the security and operation of our Site, and for our internal analytics and reporting purposes.
+                    <br></br>
+                    <br></br>
+                    <b className="text-lg">2. COOKIES</b>
+                    <br></br>
+                    Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device&apos;s internal memory.
+                    <br></br>
+                    <br></br>
+                    This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+                    <br></br>
+                    <br></br>
+                    <b className="text-lg">3. THIRD-PARTY SITES</b>
+                    <br></br>
+                    This Private Policy applies only to the Services. The Services may contain links to other websites not operated or controlled by us (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the services do not imply that we endorse or have reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+                    <br></br>
+                    <br></br>
+                    <b className="text-lg">SECURITY</b>
+                    <br></br>
+                    AvaAssistant takes reasonable measures to protect your information from unauthorized access or against loss, misuse or alteration by third parties. Although we make good faith efforts to store the information collected on the Service in a secure operating environment that is not available to the public, we cannot guarantee the absolute security of that information during its transmission or its storage on our systems. Further, while we attempt to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining access to this information. We do not warrant or represent that your information will be protected against, loss, misuse, or alteration by third parties. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+                    <br></br>
+                    <br></br>
+                    <b className="text-lg">CHANGES TO THIS POLICY</b>
+                    <br></br>
+                    We reserve the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any information. This Privacy Policy was last updated on the date indicated above.
+                    <br></br>
+                    <br></br>
+                    <b className="text-lg">CONTACTING US</b>
+                    <br></br>
+                    Please feel free to contact us if you have any questions about this Private Policy or the information practices of the Service. You may contact us at: support@avaassistant.xyz
                 </p>
             </main>
         </Page>
