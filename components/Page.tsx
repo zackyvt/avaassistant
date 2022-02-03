@@ -27,7 +27,7 @@ export default function Page(props: PageProps) {
                 <meta name="language" content="English" />
                 <link rel="preconnect" href="https://fonts.googleapis.com"/>
                 <link rel="preconnect" href="https://fonts.gstatic.com"/>
-                <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,700&display=swap" rel="stylesheet"/>
+                <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,700&display=swap" rel="stylesheet"/>
             </Head>
             <div className={(darken ? "" : "hidden") + " bg-black opacity-50 absolute z-10 w-full h-full inset-0"}></div>
             <div className="flex-grow pr-10 pl-10 sm:pr-12 sm:pl-12 md:pl-16 md:pr-16 lg:pr-20 lg:pl-20 xl:pr-24 xl:pl-24 2xl:pl-36 2xl:pr-36 flex flex-col">
