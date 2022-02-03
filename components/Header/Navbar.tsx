@@ -16,9 +16,9 @@ interface NavItemProps {
 
 function NavItem(props: NavItemProps) {
     if (props.current_page) {
-        return <a href={props.href} className="cursor-pointer ml-8 font-bold">{props.name}</a>
+        return <a href={props.href} className="cursor-pointer ml-8 font-medium">{props.name}</a>
     } else {
-        return <a href={props.href} className="font-bold cursor-pointer ml-8 opacity-50 hover:scale-105 hover:opacity-75">{props.name}</a>
+        return <a href={props.href} className="transition-all font-medium cursor-pointer ml-8 opacity-50 hover:scale-105 hover:opacity-75">{props.name}</a>
     }
 }
 

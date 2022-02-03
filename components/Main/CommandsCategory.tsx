@@ -10,11 +10,11 @@ interface CommandCategoryButtonProps {
 function CommandCategoryButton(props: CommandCategoryButtonProps) {
     if (props.current_category) {
         return (
-            <button className="ml-2 lg:ml-0 mt-3 font-bold w-64 h-12 bg-pink text-white rounded-md">{props.name}</button>
+            <button className="transition-all ml-2 lg:ml-0 mt-3 font-medium w-64 h-12 bg-gradient-to-r from-pink to-purple text-white rounded-md">{props.name}</button>
         )
     } else {
         return (
-            <button onClick={() => props.button_clicked(props.category_id)} className="ml-2 lg:ml-0 mt-3 font-bold w-64 h-12 bg-white text-black rounded-md opacity-25 hover:opacity-50">{props.name}</button>
+            <button onClick={() => props.button_clicked(props.category_id)} className="transition-all ml-2 lg:ml-0 mt-3 font-bold w-64 h-12 bg-white text-black rounded-md opacity-25 hover:opacity-50">{props.name}</button>
         )
     }
 }

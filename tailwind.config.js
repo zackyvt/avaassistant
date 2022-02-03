@@ -5,14 +5,16 @@ module.exports = {
   ],
   theme: {
     colors: {
-      "blue": "#2C3E50",
-      "cyan": "#222f3e",
+      "blue": "#041C32",
+      "cyan": "#064663",
+      "green": "#04293A",
       "pink": "#9B59B6",
       "white": "#FFFFFF",
-      "black": "#000000"
+      "black": "#000000",
+      "purple": "#270082"
     },
     fontFamily: {
-      "sans": "Lato, sans-serif"
+      "sans": "Roboto, sans-serif"
     },
     extend: {},
   },

@@ -1,15 +1,17 @@
 interface CommandItem {
     name: string,
     description: string,
-    usage: string
+    usage: string,
+    alias: string
 }
 
 function CommandItem(props: CommandItem) {
     return (
         <tr className="border-b">
             <td className="font-bold text-center">{ props.name }</td>
-            <td className="p-3.5 pl-0 pr-0">{ props.description }</td>
+            <td className="pt-3 pb-3">{ props.description }</td>
             <td>{ props.usage }</td>
+            <td>{ props.alias }</td>
         </tr>
     )
 }
@@ -18,9 +20,10 @@ function CommandsListHeader() {
     return (
         <thead className="font-bold">
             <tr className="border-b text-sm sm:text-base">
-                <td className="text-center p-3.5 w-fit">Name</td>
+                <td className="text-center pt-3.5 pb-3.5">Name</td>
                 <td>Description</td>
                 <td>Usage</td>
+                <td>Alias</td>
             </tr>
         </thead>
     )

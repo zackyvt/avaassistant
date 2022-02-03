@@ -21,7 +21,8 @@ import { getDatabase, ref, child, get } from "firebase/database";
 interface CommandsList {
     name: string,
     description: string,
-    usage: string
+    usage: string,
+    alias: string
 }
 
 interface CommandCategory {
@@ -42,7 +43,8 @@ export async function getCommandsList(): Promise<{data: CommandCategory[]}> {
                 commands_list.push({
                     usage: command_key,
                     name: value[key].commands_list[command_key].name,
-                    description: value[key].commands_list[command_key].description
+                    description: value[key].commands_list[command_key].description,
+                    alias: value[key].commands_list[command_key].alias
                 });
             }
             data.push({

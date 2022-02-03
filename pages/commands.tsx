@@ -9,7 +9,8 @@ import Page from '../components/Page'
 interface CommandsList {
     name: string,
     description: string,
-    usage: string
+    usage: string,
+    alias: string
 }
 
 interface CommandCategory {

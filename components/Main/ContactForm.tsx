@@ -47,7 +47,7 @@ export default function ContactForm() {
             <input value={email} onInput={e => setEmail((e.target as HTMLInputElement).value)} type="email" className="outline-blue text-black rounded-md mb-3 p-2 pr-3 pl-3 text-sm" placeholder="Email..." />
             <input value={subject} onInput={e => setSubject((e.target as HTMLInputElement).value)} type="text" className="outline-blue text-black rounded-md mb-3 p-2 pr-3 pl-3 text-sm" placeholder="Subject..." />
             <textarea value={content} onInput={e => setContent((e.target as HTMLInputElement).value)} className="outline-blue text-black rounded-md mb-3 p-2 pr-3 pl-3 text-sm h-48" placeholder="Content..."></textarea>
-            <button className="font-bold w-48 h-10 bg-pink mt-3 rounded-lg hover:opacity-80 text-white self-center sm:self-start">SUBMIT</button>
+            <button className="transition-all font-medium p-2.5 pl-12 pr-12 bg-pink mt-3 rounded-lg hover:scale-105 text-white self-center sm:self-start">Submit</button>
         </form>
     )
 }
