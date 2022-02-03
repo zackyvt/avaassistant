@@ -11,19 +11,20 @@ function FooterMain() {
     return (
         <div className="flex ml-20 flex-wrap">
             <FooterSection title="Contact" links={{
-                "Email": "mailto:teamava0001@gmail.com"
+                "Email": "mailto:teamava0001@gmail.com",
             }}/>
             <FooterSection title="Resources" links={{
                 "Support": "/support",
                 "Commands": "/commands"
             }}/>
             <FooterSection title="Legal" links={{
+                "Terms of Service": "/termsofservice",
                 "Privacy Policy": "/privacypolicy",
-                "Terms of Service": "/termsofservice"
+                "Cookie Policy": "/cookiepolicy"
             }}/>
         </div>
     )
-}
+} 
 
 function FooterHeader() {
     return (
