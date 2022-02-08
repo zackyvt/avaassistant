@@ -1,10 +1,10 @@
 import type { NextPage } from 'next'
-import Head from 'next/head'
 import React, { useState } from 'react'
-import { getCommandsList } from '../components/Database'
 import CommandsCategory from '../components/Main/CommandsCategory'
 import CommandsList from '../components/Main/CommandsList'
 import Page from '../components/Page'
+import dbConnect from '../lib/dbConnect'
+import CommandCategory from '../models/CommandCategory'
 
 interface CommandsList {
     name: string,
@@ -39,8 +39,28 @@ const Home: NextPage<{data: CommandCategory[]}> = (props: {data: CommandCategory
 }
 
 export async function getServerSideProps() {
+    await dbConnect();
+
+    let commandCategories = await CommandCategory.find({});
+    let data = commandCategories.map((category) => {
+        return {
+            name: category.name,
+            category_id: category._id.toString(),
+            commands_list: category.items.map((item: any) => {
+                return {
+                    name: item.name,
+                    description: item.description,
+                    usage: item.usage,
+                    alias: item.alias
+                }
+            })
+        }
+    });
+
     return {
-        props: await getCommandsList()
+        props: {
+            data: data
+        }
     }
 }
 
