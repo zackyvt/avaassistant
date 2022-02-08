@@ -14,7 +14,7 @@ function HeroLeft() {
                 </span>
             </p>
             <button className="transition-all font-bold p-3.5 pl-5 pr-5 bg-gradient-to-r from-pink to-purple
-        mt-12 rounded-lg text-sm hover:scale-105">INVITE THE BOT</button><br className="sm:hidden" />
+        mt-12 rounded-lg text-sm hover:scale-105" onClick={() => window.location.href = "https://www.twitch.tv/avaassistant"}>INVITE THE BOT</button><br className="sm:hidden" />
             <button className="transition-all font-bold p-3.5 pl-5 pr-5 bg-white
         mt-5 sm:mt-10 rounded-lg text-sm hover:scale-105 text-black sm:ml-5" onClick={() => window.location.href = "/commands"}>VIEW COMMANDS</button>
         </div>
